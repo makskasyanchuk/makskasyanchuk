@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Maksym Kasianchuk
 
-<h1 align="center">Hi there, I’m Maksym 👋</h1>
 <h3 align="center">Salesforce Engineer · Computer Science Enthusiast · Faith-Driven Dev</h3>
 
 Follow me on social media
@@ -40,7 +39,7 @@ Follow me on social media
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
   <!-- Cursor (custom SVG) -->
-  <img src="https://raw.githubusercontent.com/steveukx/cursor-logo/master/cursor-logo.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/VectorLogoZone/vectorlogozone/master/logos/cursor/cursor.svg" height="40" />
 
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -49,7 +48,7 @@ Follow me on social media
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 
   <!-- Apex (custom Salesforce Apex logo) -->
-  <img src="https://raw.githubusercontent.com/edent/Salesforce Logos/master/apex.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/naijopkr/devicon-sf/main/icons/apex/apex.png" height="40" />
 
   <!-- Salesforce -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
