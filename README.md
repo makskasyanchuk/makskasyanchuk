@@ -48,7 +48,7 @@ Follow me on social media
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
 
   <!-- Apex (custom Salesforce Apex logo) -->
-  <img src="https://raw.githubusercontent.com/naijopkr/devicon-sf/main/icons/apex/apex.png" height="40" />
+  <img src="https://raw.githubusercontent.com/naijopkr/devicon-sf/main/icons/apex/apex-original.svg" height="40" />
 
   <!-- Salesforce -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
@@ -58,9 +58,6 @@ Follow me on social media
 
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-
-  <!-- CodeRabbit (custom SVG) -->
-  <img src="https://raw.githubusercontent.com/coderabbitai/brand/main/logo/coderabbit-logo.svg" height="40" />
 
   <!-- Jira -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" />
